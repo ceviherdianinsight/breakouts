@@ -75,3 +75,10 @@ ____
 <a id="3"></a>
 #### 3. Why Trade Breakouts?
 
+1. Recap: What Are Breakouts
+2. Purpose of the Lesson
+3. Backtest Design
+4. Key Findings
+5. Interpretation
+6. Practical Takeaways for Traders
+
