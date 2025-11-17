@@ -7,7 +7,7 @@
 
 [2-What are Breakouts?](#2)
 
-[3-Trend Channels](#3)
+[3-Why Trade Breakouts?](#3)
 
 ____
 
@@ -67,4 +67,11 @@ ____
   - Tight, long-lasting ranges
   - Long-term highs/lows
   - Sustained price behavior beyond breakout level
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="3"></a>
+#### 3. Why Trade Breakouts?
 
