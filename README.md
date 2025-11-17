@@ -41,12 +41,12 @@ ____
   - Between Oct 3 – Dec 19, 2018, USD/JPY was range-bound between 114.55 (high) and 111.37 (low) (~300 pips).
   - On Dec 20, price broke below 111.37, continuing to fall 662 pips to 104.66 — a textbook downward breakout.
     
-3. Characteristics of Breakouts
+2. Characteristics of Breakouts
 * Breakouts occur across all time frames — from minutes to months.
 * Identifying them involves some subjectivity, but certain rules help determine which are more meaningful.
 * A simple breakout can be defined as the price making new highs or lows beyond a previous range.
   
-5. Four Key Rules for Evaluating Breakout Strength
+3. Four Key Rules for Evaluating Breakout Strength
 * Rule 1: Time Frame Importance:
   - Breakouts on higher time frames are more significant than those on lower ones.
   - Example: A 50-day high matters much more than a 50-minute high.
@@ -60,4 +60,11 @@ ____
   - What happens after the breakout indicates its strength:
     - If price holds beyond the breakout level, momentum is likely to continue.
     - Example: EUR/USD breaks above 1.1000 and stays above for several days → bullish continuation likely.
-7. Key Takeaways
+4. Key Takeaways
+* Breakouts represent powerful shifts in market sentiment.
+* To filter high-quality breakouts, focus on:
+  - Higher time frames
+  - Tight, long-lasting ranges
+  - Long-term highs/lows
+  - Sustained price behavior beyond breakout level
+
